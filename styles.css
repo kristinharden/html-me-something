@@ -1,0 +1,39 @@
+header {
+  text-align:center;
+  color: #fff;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 30px;
+  line-height: .5;
+  background-color: #323256;
+  padding: 25px 25px 30px 30px;
+}
+
+.sectiontitle {
+  font-family: 'Poiret One', sans-serif;
+  font-size: 30px;
+  line-height: .75;
+  color: #323256;
+  background-color: #a7adb7;
+  padding: 25px 25px 30px 30px;
+}
+
+#footer {
+    color: #fff;
+    background-color:#323256;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1
+    padding:25px 25px 25px 25px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #12121c;
+  background: #fff;
+}
+
+img {
+  margin: 0px 25px 25px 25px;
+}
