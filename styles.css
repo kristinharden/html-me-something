@@ -23,6 +23,8 @@ header {
     font-family: 'Roboto', sans-serif;
     line-height: 1
     padding:25px 25px 25px 25px;
+    text-align:right;
+    clear: both
 }
 
 body {
@@ -34,6 +36,12 @@ body {
   background: #fff;
 }
 
-img {
+#wrap_right {
   margin: 0px 25px 25px 25px;
+  float: right;
+}
+
+#wrap_left {
+  margin: 0px 25px 25px 25px;
+  float: left;
 }
