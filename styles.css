@@ -34,6 +34,10 @@ body {
   line-height: 1.5;
   color: #12121c;
   background: #fff;
+  margin-left: 50px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 10px;
 }
 
 #wrap_right {
